@@ -12,26 +12,20 @@
 <br/>
 
 <div align="center">
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM/" target="_blank">
+  <a href="https://www.instagram.com/code_hdez/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/code-hdez/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://YOUR_PORTFOLIO_URL/" target="_blank">
+  <a href="https://CodeHdez.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://steamcommunity.com/id/YOUR_STEAM/" target="_blank">
+  <a href="https://steamcommunity.com/id/mejorsiguebuscando/" target="_blank">
     <img src="https://img.shields.io/badge/Steam-%23171A21.svg?&style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
   </a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+  <a href="https://discord.com/users/282556787612319744" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://store.epicgames.com/u/YOUR_EPICGAMES" target="_blank">
-    <img src="https://img.shields.io/badge/Epic%20Games-%23313131.svg?&style=for-the-badge&logo=epicgames&logoColor=white" alt="Epic Games" />
-  </a>
-  <a href="https://www.op.gg/summoners/YOUR_REGION/YOUR_RIOT_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Riot%20Games-%23D32936.svg?&style=for-the-badge&logo=riotgames&logoColor=white" alt="Riot Games" />
   </a>
 </div>
 
@@ -42,7 +36,7 @@
 <!-- 🎂 Born in 2003 — update age manually each year, or set up a GitHub Action to auto-update -->
 
 - 🎓 **Computer Science Engineer** from **Pontificia Universidad Católica Madre y Maestra (PUCMM)**, Dominican Republic.
-- 🇩🇴 Carlos David Hernandez Collado, **22 years old**.
+- 🇩🇴 Carlos David Hernandez Collado, **<!-- BIRTHDAY_AGE -->22<!-- /BIRTHDAY_AGE --> years old**.
 - 🔍 Actively seeking opportunities to grow professionally, contribute my fast-learning ability, and develop new skills.
 - 🤖 Passionate about **Artificial Intelligence**, NLP, and data-driven solutions.
 - 🎮 Video game enthusiast: many of my personal projects are inspired by games I've played!
@@ -114,8 +108,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Code-Hdez&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Hdez&layout=compact&theme=tokyonight&hide_border=true" height="180px" alt="Top Languages" />
+  <img src="https://github-readme-stats-puce-psi-85.vercel.app/api?username=Code-Hdez&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-puce-psi-85.vercel.app/api/top-langs/?username=Code-Hdez&layout=compact&theme=tokyonight&hide_border=true" height="180px" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -124,10 +118,10 @@
 
 ---
 
-## 🏆 Trophy Showcase
+## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Code-Hdez&theme=tokyonight&no-frame=true&no-bg=true&column=6" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com?user=Code-Hdez&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 ---
