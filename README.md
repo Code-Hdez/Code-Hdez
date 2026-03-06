@@ -36,7 +36,7 @@
 <!-- 🎂 Born in 2003 — update age manually each year, or set up a GitHub Action to auto-update -->
 
 - 🎓 **Computer Science Engineer** from **Pontificia Universidad Católica Madre y Maestra (PUCMM)**, Dominican Republic.
-- 🇩🇴 Carlos David Hernandez Collado, **<!-- BIRTHDAY_AGE -->22<!-- /BIRTHDAY_AGE --> years old**.
+- 🇺🇸 🇩🇴 Carlos David Hernandez Collado, **<!-- BIRTHDAY_AGE -->22<!-- /BIRTHDAY_AGE --> years old**.
 - 🔍 Actively seeking opportunities to grow professionally, contribute my fast-learning ability, and develop new skills.
 - 🤖 Passionate about **Artificial Intelligence**, NLP, and data-driven solutions.
 - 🎮 Video game enthusiast: many of my personal projects are inspired by games I've played!
