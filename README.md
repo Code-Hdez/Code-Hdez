@@ -108,8 +108,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-puce-psi-85.vercel.app/api?username=Code-Hdez&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-puce-psi-85.vercel.app/api/top-langs/?username=Code-Hdez&layout=compact&theme=tokyonight&hide_border=true" height="180px" alt="Top Languages" />
+  <img src="https://github-readme-stats-puce-psi-85.vercel.app/api?username=Code-Hdez&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&v=20260405" height="180px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-puce-psi-85.vercel.app/api/top-langs/?username=Code-Hdez&layout=compact&theme=tokyonight&hide_border=true&v=20260405" height="180px" alt="Top Languages" />
 </div>
 
 <div align="center">
